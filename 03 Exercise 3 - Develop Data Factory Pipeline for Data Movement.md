@@ -18,7 +18,7 @@ Synopsis: In this exercise, attendees will implement Azure Data Factory pipeline
 
     ![Screenshot](images/create_copy_pipeline_using_the_copy_data_wizard_2.png)
 
-1. Optional: Type in a description like: **This pipeline copies CSV file from on-premises virtual machine C:\Data to Azure Blob Storage as a one-time job**.
+1. Optional: Type in a description like: **This pipeline copies CSV file from on-premises virtual machine C:\Data to Azure Data Lake Storage as a one-time job**.
 2. Select the **Run once now** option.
 3. Click on the **Next** button from the bottom of the screen.
 4. From the Source Data Store screen tab, select **File Server Share**.
